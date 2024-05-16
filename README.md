@@ -19,7 +19,7 @@ This repository contains a simple yet functional calculator application built us
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/logusivam/codsoft-3.git
+   git clone https://github.com/logusivam/codsoft_3.git
    ```
 2. Navigate to the project directory:
 ```
