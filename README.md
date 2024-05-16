@@ -23,6 +23,9 @@ This repository contains a simple yet functional calculator application built us
    ```
 2. Navigate to the project directory:
 ```
+cd codsoft_3
+```
+```
 cd calculator
 ```
 3. Open `index.html` in your web browser
